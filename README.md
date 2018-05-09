@@ -12,6 +12,6 @@
 -jquery ui         http://jqueryui.com/download/
 -timer.jquery    https://raw.githubusercontent.com/walmik/timer.jquery/master/dist/timer.jquery.min.js
 
-## Instalaci'o,
+## Instalación,
 
 > No hay instrucciones de instalacion, solo bajalo, editalo y no te olvides de mencionarme
