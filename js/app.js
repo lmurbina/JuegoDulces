@@ -1,4 +1,10 @@
-
+/*!
+ * Juego de combinaciones al estilo Candy Crush
+ * https://github.com/lmurbina/JuegoDulces
+ *
+ * Autor: Luis Manuel Urbina Tinoco
+ * Nacionalida: Nicaraguense
+ */
 var timer;
 var totalColumnas = 7;
 var totalFilas = 7;
